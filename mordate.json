@@ -1,0 +1,9 @@
+{
+	"pageant_path": "C:\\Program Files\\Five-BN\\putty\\PAGEANT.EXE",
+	"pageant_params": [
+		"D:\\ssh\\otrishko-svn.ppk",
+		"D:\\ssh\\otrishko-gitlab.ppk"
+	],
+	"tortoise_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
+	"projects_filename": "projects.txt"
+}
