@@ -1,0 +1,1 @@
+python -m PyInstaller --clean --onefile --icon="mordate.ico" mordate.py
